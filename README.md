@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu perfil 🩷
+### Bem vindo(a) ao meu perfil 
 
 
 Meu nome é Anne Cristine
@@ -10,6 +10,7 @@ Meu nome é Anne Cristine
 ### Você pode entrar em contato comigo :mailbox
 
 00001159958555sp@al.educacao.sp.gov.br
+
 @annee.css
 
 ![](descrição do GIF](https://tenor.com/pIzgRAQiDRW.gif)
