@@ -13,4 +13,5 @@ Meu nome é Anne Cristine
 
 @annee.css
 
-![](https://tenor.com/pIzgRAQiDRW.gif)
+![descrição do GIF](https://media1.tenor.com/m/Nw9pNdZnmu0AAAAC/beomgyu-babygirl-beomgyu-bbygirl.gif)
+
