@@ -13,4 +13,4 @@ Meu nome é Anne Cristine
 
 @annee.css
 
-![](descrição do GIF](https://tenor.com/pIzgRAQiDRW.gif)
+![](https://tenor.com/pIzgRAQiDRW.gif)
